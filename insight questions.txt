@@ -1,0 +1,32 @@
+Insight Questions (SQL + Python Analysis):
+
+1)Top and Bottom Spending Customers
+ -Who are the top and bottom customers by total spend?
+
+2)Top-Selling Categories
+ -Which product categories generate the most revenue?
+
+3)Revenue and Average Purchase Amount by Gender
+ -Do spending habits differ between male and female customers?
+
+4)Impact of Discounts & Promo Codes
+ -Do customers who use discounts or promo codes spend more?
+
+5)Seasonal Purchase Trends
+ -Which seasons see the highest spending or purchase volume?
+
+6)Subscription Status vs Spending
+ -Are subscribed users spending more on average?
+
+7)Location-Based Insights
+ -Which states or regions generate the highest and least sales?
+ -Do certain cities favor specific payment methods?
+
+8)Frequency of Purchases vs. Total Spend
+ -How does purchase frequency relate to total expenditure?
+
+9)Effect of Shipping Type on Purchase Amount
+ -Does faster shipping correlate with higher purchase amounts?
+
+
+
